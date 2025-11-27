@@ -8,7 +8,7 @@ Dyscover adalah aplikasi mobile yang dirancang untuk membantu mendeteksi dan men
 
 **Juara 3 - Hackathon elevAIte Indonesia 2025 Hub UGM**
 
-Aplikasi ini meraih juara 3 dalam kompetisi hackathon elevAIte Indonesia 2025 yang diselenggarakan oleh Hub UGM, mengalahkan ratusan peserta lainnya dengan inovasi dalam bidang AI untuk pendidikan dan kesehatan anak.
+Aplikasi ini meraih juara 3 dalam kompetisi hackathon elevAIte Indonesia 2025 yang diselenggarakan oleh Hub UGM.
 
 ## ✨ Fitur Utama
 
