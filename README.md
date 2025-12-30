@@ -238,21 +238,11 @@ Untuk menjalankan linter:
 npm run lint
 ```
 
-## 📝 Lisensi
-
-Private project - All rights reserved
 
 ## 👥 Tim Development
 
 Dikembangkan oleh tim Ambatuwin untuk Hackathon elevAIte Indonesia 2025 Hub UGM.
 
-## 🤝 Kontribusi
-
-Project ini adalah hasil dari hackathon dan saat ini dalam tahap pengembangan aktif. Untuk pertanyaan atau kolaborasi, silakan hubungi tim development.
-
-## 📞 Kontak
-
-Untuk informasi lebih lanjut tentang aplikasi atau kolaborasi, silakan hubungi tim development.
 
 ---
 
